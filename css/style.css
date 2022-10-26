@@ -1,0 +1,17 @@
+/* Hack para utilizar rem con medida de 10px por unidad 
+   1rem = 10px */
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 3.8rem;
+}
+
+.titulo span{
+    font-size: 2rem;
+}
