@@ -1,3 +1,12 @@
+:root{
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #7de8ff;
+    --secundario: #202b3a;
+    --gris: #757575;
+    --grisClaro: #DFE9F3;
+}
+
 /* Hack para utilizar rem con medida de 10px por unidad 
    1rem = 10px */
 html{
@@ -5,6 +14,7 @@ html{
 }
 body{
     font-size: 16px;
+    font-family: 'Krub', sans-serif;
 }
 
 .titulo{
